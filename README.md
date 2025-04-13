@@ -30,7 +30,7 @@ Install Tesseract separately and make sure it's accessible from your system.
 ## Usage
 
 ```bash
-python your_script.py
+python main.py
 ```
 
 Then use `Ctrl+Shift+V` to run OCR on any image in your clipboard.
