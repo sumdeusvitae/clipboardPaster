@@ -1,8 +1,3 @@
-Here's the updated `README.md` for your project, assuming the `requirements.txt` is already in your repository:
-
----
-
-```markdown
 # Clipboard OCR Paster
 
 This tool grabs an image from your clipboard (e.g. a screenshot), extracts the text using Tesseract OCR, copies it to your clipboard, and pastes it automatically. Triggered by `Ctrl+Shift+V`.
@@ -54,6 +49,3 @@ Press `Shift+Esc` to stop the script.
 - pillow  
 - pyperclip  
 - keyboard
-```
-
----
